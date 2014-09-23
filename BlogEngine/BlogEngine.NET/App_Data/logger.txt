@@ -1,0 +1,18 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/23/2014 9:46:14 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/VonMinimalist/PostView.cshtml: c:\Users\Jaanus\Code\BlogEngineNET-Sandbox\BlogEngine\BlogEngine.NET\Custom\Themes\VonMinimalist\PostView.cshtml(8): error CS0117: 'post' does not contain a definition for 'Blog'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/23/2014 9:46:14 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/VonMinimalist/PostView.cshtml: c:\Users\Jaanus\Code\BlogEngineNET-Sandbox\BlogEngine\BlogEngine.NET\Custom\Themes\VonMinimalist\PostView.cshtml(8): error CS0117: 'post' does not contain a definition for 'Blog'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/23/2014 9:46:41 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/VonMinimalist/PostView.cshtml: 'ASP.custom_themes_razorhost_postview_ascx' does not contain a definition for 'Title'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/23/2014 9:46:41 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/VonMinimalist/PostView.cshtml: 'ASP.custom_themes_razorhost_postview_ascx' does not contain a definition for 'Title'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/23/2014 9:47:15 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/VonMinimalist/PostView.cshtml: 'ASP.custom_themes_razorhost_postview_ascx' does not contain a definition for 'DateCreated'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/23/2014 9:47:15 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/VonMinimalist/PostView.cshtml: 'ASP.custom_themes_razorhost_postview_ascx' does not contain a definition for 'DateCreated'

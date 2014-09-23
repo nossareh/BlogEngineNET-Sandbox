@@ -1,0 +1,23 @@
+﻿@using BlogEngine.Core
+<section class="post">
+    <header class="entry-header">
+        @*@Html.Image(Model.Author.Avatar)*@
+        <img class="entry-avatar" alt="Paul Laros" height="52" width="52" src="">
+        <h2 class="entry-title"><a href="@Model.Post.RelativeOrAbsoluteLink">@Model.Post.Title</a></h2>
+        <p class="entry-meta">
+            Posted on <a class="entry-date" href="date.html">@Model.Post.DateCreated.ToString("MMMM dd, yyyy") @*July 19, 2013*@</a> | By 
+            <a class="entry-author" href="/">
+                @(Model.Post.AuthorProfile != null ? Model.Post.AuthorProfile.DisplayName : Model.Post.Author)
+            </a> | Tags @foreach (var tag in @Model.Post.Tags)
+                        {
+                            <a class="label label-danger" href="/">@tag</a>
+                        }
+        </p>
+    </header>
+    <div class="entry-description">
+        <p>
+            @Html.Raw(Model.Body)
+        </p>
+    </div>
+</section>
+<!-- /.post -->
