@@ -43,3 +43,6 @@ RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Can
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 Date: 9/24/2014 5:57:51 PM
 RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Cannot perform runtime binding on a null reference
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/24/2014 9:49:04 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/VonMinimalist/PostView.cshtml: An item with the same key has already been added.
