@@ -2,7 +2,7 @@
 <section class="post">
     <header class="entry-header">
         @*@Html.Image(Model.Author.Avatar)*@
-        <img class="entry-avatar" alt="Paul Laros" height="52" width="52" src="">
+        <img class="entry-avatar" alt="Paul Laros" height="52" width="52" src="@Href(Utils.RelativeWebRoot + "Custom/Themes/" + BlogSettings.Instance.Theme + "/img/IdentityImage_372x372.jpg")">
         <h2 class="entry-title"><a href="@Model.Post.RelativeOrAbsoluteLink">@Model.Post.Title</a></h2>
         <p class="entry-meta">
             Posted on <a class="entry-date" href="date.html">@Model.Post.DateCreated.ToString("MMMM dd, yyyy") @*July 19, 2013*@</a> | By 

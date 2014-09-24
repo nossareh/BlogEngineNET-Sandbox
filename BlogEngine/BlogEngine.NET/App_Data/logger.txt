@@ -16,3 +16,30 @@ RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/VonMinimalist/PostView.csh
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 Date: 9/23/2014 9:47:15 PM
 RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/VonMinimalist/PostView.cshtml: 'ASP.custom_themes_razorhost_postview_ascx' does not contain a definition for 'DateCreated'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/24/2014 5:56:55 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Cannot perform runtime binding on a null reference
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/24/2014 5:56:59 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Cannot perform runtime binding on a null reference
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/24/2014 5:57:04 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Cannot perform runtime binding on a null reference
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/24/2014 5:57:07 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Cannot perform runtime binding on a null reference
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/24/2014 5:57:11 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Cannot perform runtime binding on a null reference
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/24/2014 5:57:11 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Cannot perform runtime binding on a null reference
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/24/2014 5:57:12 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Cannot perform runtime binding on a null reference
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/24/2014 5:57:32 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Cannot perform runtime binding on a null reference
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/24/2014 5:57:51 PM
+RazorHelper, ParseRazor, VirtualPath: ~/Custom/Themes/RazorHost/page.cshtml: Cannot perform runtime binding on a null reference

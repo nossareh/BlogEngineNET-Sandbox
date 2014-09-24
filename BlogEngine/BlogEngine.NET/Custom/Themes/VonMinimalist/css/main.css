@@ -42,6 +42,10 @@ a, a:focus, a:hover {
   border-radius: 2px;
 }
 
+.post span {
+    display: inline-block;
+}
+
 /* PACE 
 -------------------------------------------------------- */
 .pace .pace-progress {
@@ -141,7 +145,7 @@ a, a:focus, a:hover {
 
 .entry-meta {
   color: #999;
-  font-size: 90%;
+  /*font-size: 90%;*/
   margin: 0 0 1.8em;
 }
 
